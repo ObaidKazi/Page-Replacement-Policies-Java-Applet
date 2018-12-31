@@ -53,5 +53,6 @@ include build path in enviornmental variables so that command line can accept ja
 ## Acknowledgments
 
 * The template of readme.md was taken from [PurpleBooth](https://github.com/PurpleBooth)
+* A Sincere thanks to Adnan Ansari [adnannet8425](https://github.com/adnannet8425) for contributing towards the devlopment of GUI
 
 
